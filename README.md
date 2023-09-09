@@ -11,7 +11,7 @@ This is a simple calculator web application built with HTML, CSS, and JavaScript
 
 ## Demo
 
-You can try out the calculator by visiting the live demo here[](#https://codsoft-calculator-theta.vercel.app/)
+You can try out the calculator by visiting the live demo here[(#https://codsoft-calculator-theta.vercel.app/)]
 
 ## Screenshots
 
